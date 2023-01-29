@@ -1,0 +1,43 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Unbounded:wght@200&display=swap');
+
+  *{
+    
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Unbounded', cursive;
+  }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+#info-personal {
+  background-color: lightgray;
+  padding: 10px;
+  
+ 
+}
+
+#info-personal img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+#experiencia-laboral, #educacion {
+  padding: 10px;
+  margin: auto;
+  width: 80%;
+}
+header{
+  border-style: solid;
+  background-color: aquamarine;
+}
